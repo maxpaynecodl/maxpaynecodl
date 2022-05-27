@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maxpayne
-- 👀 I’m interested in python and java
+- 👀 I’m interested in web3 nft python
 - 🌱 I’m currently learning web3
 - 💞️ I’m looking to collaborate on none
 - 📫 How to reach me [yeah no]
